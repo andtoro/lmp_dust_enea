@@ -1,4 +1,4 @@
-# Abstract 
+# Introduction 
 Climate is a complex, dynamic, system composed of multiple components, including the
 atmosphere, ocean, continental surfaces, ice sheets, and living organisms. These subsystems
 interact in highly nonlinear ways, influencing global climate patterns. The atmosphere is one
