@@ -75,3 +75,5 @@ model, as well as European-level forecasts through Copernicus Services, where it
 eleven European models in the ensemble. The insights gained from this work could also help
 to design air quality policies and strategies to mitigate the impact of aerosols on both human
 health and the environment, by separating natural contributions from anthropogenic ones.
+
+Link to my master thesis: https://etd.adm.unipi.it/theses/available/etd-03092025-162638/
