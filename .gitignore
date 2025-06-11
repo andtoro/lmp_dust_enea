@@ -30,6 +30,8 @@ share/
 pyvenv.cfg
 figure_old/
 figure/
+DD_data_stations/
+docs/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
